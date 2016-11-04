@@ -1,4 +1,4 @@
-#five main issues
+#three main issues
 #1) the db only returns 1000 items, so how would I return all of them and add the lists together (04.09.1995 - 10.19.1998)
 #2) I want a row for each wrestler so I can then make pairs for Gephi
 #3) would like to leave championship info and match duration info in if i can
